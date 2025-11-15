@@ -1,5 +1,5 @@
-<h1 align="center">Hello World I am Vetri!</h1>
-<h3 align="center">Student Pursuing BE Computer Science Engineering</h3>
+<h1 align="center">Hello World I am Vetri Selvan M</h1>
+<h3 align="center">Student Pursuing BE Computer Science Engineering In DMI College of Engineering</h3>
 
 ---
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vetri selvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vetri selvan" height="30" width="50" /></a>
+<a href="[https://linkedin.com/in/vetri selvan M](https://www.linkedin.com/in/vetri-selvan-m-790022254/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vetri selvan" height="30" width="50" /></a>
 <a href="https://kaggle.com/vetriselvan000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vetriselvan000" height="30" width="50" /></a>
 <a href="https://instagram.com/veriselvan2005.11.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veriselvan2005.11.18" height="30" width="50" /></a>
 <a href="https://www.hackerrank.com/vetri selvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vetri selvan" height="30" width="50" /></a>
@@ -55,3 +55,4 @@
 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Vetriselvan18?theme=dark&font=Michroma&ext=heatmap)](https://leetcode.com/Vetriselvan18)
+
